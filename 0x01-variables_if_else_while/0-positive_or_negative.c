@@ -13,7 +13,7 @@ int main(void)
 	/* your code goes there */
 	
 	if (n>0){
-		printf(n);
+		printf("%d", n);
 	}
 	
 	else if (n == 0){
