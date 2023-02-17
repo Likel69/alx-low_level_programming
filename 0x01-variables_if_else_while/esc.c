@@ -1,5 +1,9 @@
 #include <stdio.h>
 
-int n = 7;
-printf ("%d" n);
-return(0);
+int main()
+  {
+  int n = 7;
+  
+  printf (" %d", n);
+  return 0;
+  }
