@@ -54,17 +54,11 @@ int main(void)
 				if (!(a == 9 && b == 8))
 
 				{
-
 					putchar(44);
-
 					putchar(32);
-
 				}
-
 			}
-
 		}
-
 	}
 
 	putchar(10);
