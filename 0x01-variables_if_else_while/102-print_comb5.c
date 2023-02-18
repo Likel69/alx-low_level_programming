@@ -40,7 +40,6 @@ int main(void)
 			if (a < c || (a == c && b < d))
 
 			{
-
 				putchar(a + '0');
 
 				putchar(b + '0');
@@ -60,9 +59,6 @@ int main(void)
 			}
 		}
 	}
-
 	putchar(10);
-
 	return (0);
-
 }
