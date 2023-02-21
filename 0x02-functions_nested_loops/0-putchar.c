@@ -1,8 +1,6 @@
-#include <stdio.h>
-
 /**
  * Description: Prints _putchar followed by new line
- * Main: houses all functions 
+ * Main: Print _putchar followed by new line
  * Return: 0 if succesful
 */
 int main(void)
