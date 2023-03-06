@@ -1,0 +1,5 @@
+Use the following to run Git without mintty
+
+
+cd C:\Program Files\Git\bin\
+bash.exe
