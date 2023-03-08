@@ -7,8 +7,9 @@ alx-low_level_programming.git
 
 
 Personal Access Token:
-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
-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
+
+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
+
 
 Sandbox 1
 Host: 1458dbd895d1.a9ba393f.alx-cod.online
