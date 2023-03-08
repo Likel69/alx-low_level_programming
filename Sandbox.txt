@@ -2,25 +2,12 @@
 
 git clone
 
-old:
-https://github_pat_11AU3RNEI0opdTUcWOvoCF_GRk8tKRqEnGNcLAWD8FNL5QygwxP2HOb
-D0zPOc7OkjKJU26PCEEiUWAZFm4@github.com/Likel69/alx-low_level_programming.git
-
-new:
 https://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@github.com/Likel69/
 alx-low_level_programming.git
 
 
 Personal Access Token:
-
-old:
-github_pat_11AU3RNEI0opdTUcWOvoCF_GRk8tKRqEnGNcLAWD8FNL5QygwxP2HObD0zP
-Oc7OkjKJU26PCEEiUWAZFm4
-
-new:
-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
-
-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
+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
 
 
 Sandbox 1
