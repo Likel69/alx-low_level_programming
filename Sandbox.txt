@@ -10,6 +10,8 @@ Personal Access Token:
 
 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
 
+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
+
 
 Sandbox 1
 Host: 1458dbd895d1.a9ba393f.alx-cod.online
