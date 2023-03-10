@@ -8,9 +8,7 @@ alx-low_level_programming.git
 
 Personal Access Token:
 
-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
-
-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
+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
 
 
 Sandbox 1
