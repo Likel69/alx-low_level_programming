@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strncpy - copy two strings only taking n bytes from src
