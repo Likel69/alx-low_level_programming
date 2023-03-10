@@ -1,32 +1,23 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * _strncpy - a function that copys the strings.
- * @dest: an input string
- * @src: an input string
- * @n: an input integer
- * Return: A pointer to the resulting string
+ * _strncpy - copy two strings only taking n bytes from src
+ * @dest: first string to be added to
+ * @src: second string to be added
+ * @n: number of bites to use from src
+ * Return: concatenated string
  */
+
 char *_strncpy(char *dest, char *src, int n)
 {
-	int srclen = 0, i = 0;
-	char *temp = dest, *start = src;
+	char *temp = dest;
 
-	while (*src)
+	for (; n != 0 && *src != '\0'; n--, src++)
 	{
-		srclen++;
-		src++;
+		*temp = *src;
+		temp++;
 	}
-
-	srclen++;
-
-	if (n > srclen)
-		n = srclen;
-
-	src = start;
-
-	for (; i < n; i++)
-		*dest++ = *src++;
-
-	return (temp);
+	for (; n != 0 && *temp != '\0'; n--, temp++)
+		*temp = '\0';
+	return (dest);
 }
