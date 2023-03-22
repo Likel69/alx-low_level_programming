@@ -39,14 +39,14 @@ void print_name_uppercase(char *name)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the code.
  *
  * Return: Always 0.
  */
 int main(void)
 {
-  print_name("Danton", print_name_as_is);
-  print_name("Rick Harris", print_name_uppercase);
+  print_name("Bob", print_name_as_is);
+  print_name("Bob Dylan", print_name_uppercase);
   printf("\n");
   return (0);
 }
